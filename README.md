@@ -38,7 +38,6 @@ Run the AggregateDataFromWorkbooks macro to aggregate data and calculate metrics
     
 **Example Output**
 
-Copy code
 Total Entries: 100
 Resolved (Yes): 70
 Unresolved (No): 30
