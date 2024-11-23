@@ -47,5 +47,5 @@ Average Resolution Time: 1 day(s) 3 hour(s) 45 minute(s)
 **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Credits
+**Credits**
 Created by Joseph Simpson.
